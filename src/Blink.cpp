@@ -1,4 +1,5 @@
 #include <Adafruit_NeoPixel.h>
+#include <Arduino.h>
 
 // Define the built-in RGB LED pin and number of LEDs
 #define LED_PIN 8
